@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SPA_JS_Project.props" />
+</Project>

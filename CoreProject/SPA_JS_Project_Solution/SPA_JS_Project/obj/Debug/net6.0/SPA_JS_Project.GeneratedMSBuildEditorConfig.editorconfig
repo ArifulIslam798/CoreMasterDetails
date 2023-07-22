@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SPA_JS_Project
+build_property.RootNamespace = SPA_JS_Project
+build_property.ProjectDir = E:\LDesktop\project\NewProject\CoreProject\SPA_JS_Project_Solution\SPA_JS_Project\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\LDesktop\project\NewProject\CoreProject\SPA_JS_Project_Solution\SPA_JS_Project
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_CreateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9DcmVhdGVDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_CreateItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9DcmVhdGVJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9DcmVhdGVPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_CreateOrderItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9DcmVhdGVPcmRlckl0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9DcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_CustomerTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9DdXN0b21lclRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_EdiOrderItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9FZGlPcmRlckl0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_EditCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9FZGl0Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_EditItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9FZGl0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_EditOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9FZGl0T3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9FZGl0UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_OrderItemTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9PcmRlckl0ZW1UYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_OrderTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9PcmRlclRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/SPA/_ProductTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1BBXF9Qcm9kdWN0VGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/LDesktop/project/NewProject/CoreProject/SPA_JS_Project_Solution/SPA_JS_Project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
